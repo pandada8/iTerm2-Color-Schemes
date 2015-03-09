@@ -1,0 +1,22 @@
+[colors]
+#background = {color}
+foreground = {Foreground_Color}
+background = {Background_Color}
+foreground_bold = {Bold_Color}
+cursor = {Cursor_Color}
+color0 = {Ansi_0_Color}
+color1 = {Ansi_1_Color}
+color2 = {Ansi_2_Color}
+color3 = {Ansi_3_Color}
+color4 = {Ansi_4_Color}
+color5 = {Ansi_5_Color}
+color6 = {Ansi_6_Color}
+color7 = {Ansi_7_Color}
+color8 = {Ansi_8_Color}
+color9 = {Ansi_9_Color}
+color10 = {Ansi_10_Color}
+color11 = {Ansi_11_Color}
+color12 = {Ansi_12_Color}
+color13 = {Ansi_13_Color}
+color14 = {Ansi_14_Color}
+color15 = {Ansi_15_Color}
